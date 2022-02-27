@@ -40,3 +40,6 @@
 > 灵活计算
 
 ![promotion.png](https://img.snapgenshin.com/imgs/2022/02/685030e3521bd5b3.png)
+
+## 树脂小组件
+原桌面小组件已弃用，目前使用xbox小组件（测试）作为替代方案
